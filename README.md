@@ -1,6 +1,6 @@
-# AORUS 15G/15P KC RTX 3060 Vbios dumps
+# AORUS 15G/15P Vbios dumps
 
-vbioses dumped from 15G KC and 15P KC.
+vbioses dumped from 15G and 15P
 
 Currently have only RTX 3060 variants. Feel free to open pull request for other variants.
 
